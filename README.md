@@ -1,6 +1,6 @@
 # Homework 5
 
-Create a basic task manager using React:
+Create a basic e-magazine using React:
 
 ## Functionalities:
 
@@ -8,3 +8,7 @@ Create a basic task manager using React:
 -   [x] Filter based on maximum rating
 -   [x] Button to display only jewelries
 -   [x] Button to display all items
+
+## Screenshot
+
+![result](Capture.PNG)
